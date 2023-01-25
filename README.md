@@ -30,7 +30,7 @@ with open(fname, 'r') as f:
 print('Numbr of words: ', num_words)
 ```
 ### OUTPUT:
-![output](/word.png)
+![output](/%20wordcount.png)
 
 
 ## RESULT:
